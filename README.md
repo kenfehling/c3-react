@@ -15,7 +15,7 @@ npm install c3-react
 const C3Chart = require("./C3Chart.jsx");
 ```
   
-* In parnet component
+* In parent component
 ```
 <C3Chart data={data} type={type} options={options}/>
 ```
